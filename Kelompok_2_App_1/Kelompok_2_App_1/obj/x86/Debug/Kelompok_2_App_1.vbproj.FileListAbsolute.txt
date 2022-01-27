@@ -1,0 +1,12 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Kelompok_2_App_1\bin\Debug\Kelompok_2_App_1.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Kelompok_2_App_1\bin\Debug\Kelompok_2_App_1.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Kelompok_2_App_1\bin\Debug\Kelompok_2_App_1.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.xml
+C:\Users\Lenovo\AppData\Local\Temporary Projects\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.pdb
+C:\Github Repo\KELOMPOK_2_XII MIA\Kelompok_2_App_1\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.exe
+C:\Github Repo\KELOMPOK_2_XII MIA\Kelompok_2_App_1\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.xml
+C:\Github Repo\KELOMPOK_2_XII MIA\Kelompok_2_App_1\Kelompok_2_App_1\obj\x86\Debug\Kelompok_2_App_1.pdb
