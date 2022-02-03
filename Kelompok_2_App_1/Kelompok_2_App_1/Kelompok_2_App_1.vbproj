@@ -87,6 +87,12 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data Diri.Designer.vb">
+      <DependentUpon>Data Diri.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Data Diri.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Main Menu.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -111,6 +117,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Data Diri.resx">
+      <DependentUpon>Data Diri.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Main Menu.resx">
       <DependentUpon>Main Menu.vb</DependentUpon>
     </EmbeddedResource>
@@ -153,6 +162,12 @@
       <ProductName>Windows Installer 3.1</ProductName>
       <Install>true</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2022-02-03 at 12.21.10 PM.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot_2022-02-02-21-14-31-911_com.google.android.apps.photos.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
